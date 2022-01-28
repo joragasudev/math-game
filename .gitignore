@@ -6,6 +6,14 @@
 .pnp.js
 /OTHERS
 todo
+package-lock.json
+package.json
+/public
+README.md
+/screenshots
+/src
+/static
+todo
 
 # testing
 /coverage
